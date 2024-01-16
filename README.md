@@ -1,4 +1,4 @@
-#Energy-Calibrated VAE
+# Energy-Calibrated VAE
 
 The official code of "Learning Energy-Calibrated VAE with Test Time MCMC-Free Sampling".
 
