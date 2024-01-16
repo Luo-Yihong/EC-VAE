@@ -1,3 +1,6 @@
+
+The official code of "Learning Energy-based Calibrated VAE with Test Time MCMC-Free Sampling".
+
 This is a demo version of EC-VAE for roughly reproducing.
 
 The full code, which includes  zero-shot image restoration using pre-trained EC-VAE and full training scripts, will be released after published and thoroughly checked for reproducibility.
