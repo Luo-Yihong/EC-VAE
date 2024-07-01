@@ -4,5 +4,5 @@ The official code of "[Energy-Calibrated VAE with Test Time Free Lunch](https://
 
 This is a demo version of EC-VAE for roughly reproducing.
 
-More training scripts and pretrained checkpoints will be released after published.
-
+## 🔥News 
+- EC-VAE is accepted at ECCV2024!
